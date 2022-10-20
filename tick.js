@@ -46,4 +46,6 @@ function move(event){
     
 }
  move()
-//function not working
+//function not working. was unsure of function syntex.  I tried to connect the event of clicking on boxes two colors and then
+//trying to use the for loop to go through those color. First color is first player scond color is second player. I got the
+//win arry figured out but didnt know how to use it. 
